@@ -1,0 +1,5 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_DB=django-cookie-cutter
+POSTGRES_USER=FnRuXASsfwxxkiFZptLpYVDULBPDwNQA
+POSTGRES_PASSWORD=48VO5QfOMXLVYQjlGj3yUMK8RFcersoBpCohf9wvSpZw00PC256SNrFUJQIP5KV0
